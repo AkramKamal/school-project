@@ -1,0 +1,16 @@
+Download https://downloads.mariadb.org/interstitial/mariadb-10.4.8/winx64-packages/mariadb-10.4.8-winx64.msi/from/http%3A//mariadb.mirror.liteserver.nl/
+
+Add the school database
+
+open visual studio code
+
+open terminal 
+
+execute: 
+   npm install -g express-generator
+   express --ejs
+   npm install
+   npm start
+   to stop server click ctrl+c
+   npm install mysql --save
+
